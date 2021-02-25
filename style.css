@@ -1,0 +1,10 @@
+body{
+    background-color: #A2105C;
+    color: white;
+}
+
+#webcam{
+    width: 300px;
+    height: 300px;
+    border: white dashed 2px;
+}
